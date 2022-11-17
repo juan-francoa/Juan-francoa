@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hola soy @juan-franco - Juan Esteban Franco.<br>🌱Actualmente estoy desarrollándome en: Full Stack MERN.<br>🫂Busco colaborar en: proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.<br>📫Como contactarme: esteban_rlt159@hotmail.com o https://www.linkedin.com/in/juan-esteban-franco-aranzalez-4866a8257/<br>🍇 Raspberry y Arduino 🤖 para jugar y divertirme.<br>📚 Estudiando Ing Electrónica.
+🔭 Hola soy @juan-francoa - Juan Esteban Franco.<br>🌱Actualmente estoy desarrollándome en: Full Stack MERN.<br>🫂Busco colaborar en: proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.<br>📫Como contactarme: esteban_rlt159@hotmail.com o https://www.linkedin.com/in/juan-esteban-franco-aranzalez-4866a8257/<br>🍇 Raspberry y Arduino 🤖 para jugar y divertirme.<br>📚 Estudiando Ing Electrónica.
 
 
 ## 🌐 Socials:
